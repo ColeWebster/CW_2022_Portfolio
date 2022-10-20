@@ -1,0 +1,21 @@
+.projects {
+    display: flex;
+    margin: auto;
+    padding: 30px;
+    background-color: #64A6BD;
+}
+
+.jumbotron {
+    background-color: #E8F1F2;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #E8F1F2;
+}
+
+.card {
+    text-align: center;
+}

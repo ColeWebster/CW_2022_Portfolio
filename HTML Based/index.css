@@ -18,4 +18,16 @@
 
 .card {
     text-align: center;
+    margin-left: 10px;
+}
+
+.card-img-top {
+    height: 300px;
+    width: 300px;
+}
+
+.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }

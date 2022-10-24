@@ -1,7 +1,7 @@
 .projects {
     display: flex;
+    flex-direction: column;
     margin: auto;
-    padding: 30px;
     background-color: #64A6BD;
 }
 
@@ -30,4 +30,17 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+.card-container {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    background-color: #64A6BD;
+}
+
+.projectHeading {
+    text-align:center;
+    color: white;
+    font-weight: bold;
 }
